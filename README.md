@@ -1,0 +1,2 @@
+# GritaCine
+Comunidad de cine
