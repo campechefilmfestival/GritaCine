@@ -29,7 +29,9 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-	background: image("GritaCine/background.png")
+	background-image("https://raw.githubusercontent.com/campechefilmfestival/GritaCine/master/Background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 ol, ul {
 	list-style: none;
