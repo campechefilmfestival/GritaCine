@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 	background-image("https://raw.githubusercontent.com/campechefilmfestival/GritaCine/master/Background.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
 }
 ol, ul {
